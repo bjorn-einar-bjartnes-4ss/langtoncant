@@ -4,6 +4,7 @@ This lets me run with CTRL+SHIFT+P, but I have given up any smoother workflows w
 
 ![image](https://user-images.githubusercontent.com/88324093/146642839-ee385473-0e2e-40fc-993f-e62c057d0eb8.png)
 
+![image](https://user-images.githubusercontent.com/88324093/146643700-26c9ce9e-e210-4cb8-9e7a-7b5250619b61.png)
 
 
 # Getting started
